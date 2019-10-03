@@ -645,7 +645,7 @@ dependencies = [
 [[package]]
 name = "onig"
 version = "5.0.0"
-source = "git+https://github.com/kornelski/rust-onig?branch=default-bindgen#26874964bcc2780190263af1a19f296f71ae2e16"
+source = "git+https://github.com/kornelski/rust-onig?branch=default-bindgen#HEAD"
 dependencies = [
  "bitflags 1.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "lazy_static 1.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -656,7 +656,7 @@ dependencies = [
 [[package]]
 name = "onig_sys"
 version = "69.2.0"
-source = "git+https://github.com/kornelski/rust-onig?branch=default-bindgen#26874964bcc2780190263af1a19f296f71ae2e16"
+source = "git+https://github.com/kornelski/rust-onig?branch=default-bindgen#HEAD"
 dependencies = [
  "cc 1.0.45 (registry+https://github.com/rust-lang/crates.io-index)",
  "pkg-config 0.3.16 (registry+https://github.com/rust-lang/crates.io-index)",
